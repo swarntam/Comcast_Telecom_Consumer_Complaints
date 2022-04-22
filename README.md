@@ -1,4 +1,4 @@
-
+ OVERVIEW : <br>
 Data analysis and business insights using python for Comcast Telecom Consumer Complaints
 
 DESCRIPTION: <br> 
@@ -16,8 +16,7 @@ Data Dictionary <br>
 • Status: Status of complaint <br>
 • Filing on behalf of someone : Yes/No <br>
 
-Analysis Task: To perform these tasks, you can use any of the different Python libraries such as NumPy, SciPy, Pandas, scikit-learn, matplotlib, and BeautifulSoup.
-
+Analysis Task: These are the tasks that need to be performed .
 1. Import data into Python environment.
 1. Provide the trend chart for the number of complaints at monthly and daily granularity levels.
 3. Provide a table with the frequency of complaint types. • Which complaint types are maximum i.e., around internet, network issues, or across any other domains.
